@@ -3,3 +3,4 @@
 __pycache__/
 *.pyc
 clan_bot.db
+.svcode/
